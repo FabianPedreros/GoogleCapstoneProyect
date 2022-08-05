@@ -81,12 +81,27 @@ The data is organized in a single CSV file. This have a tabular structure, with 
 
 * Are there issues with bias or credibility in this data? Does your data ROCCC?
 
-
+In this case I cannot be sure if the data is reliable, because I could not find the original dataset, the Kaggle dataset has no information to validate the origin of the data. But for the project it is well constructed. The data is current, we have the results of the last tests performed in Colombia, because of the Covid 19 pandemic these have not been performed with the normal periodicity.
 
 * How are you addressing licensing, privacy, security, and accessibility?
+
+This data is for open used and does not have any licensing.
+
 * How did you verify the data’s integrity?
+
+This data is cataloged as external data and its source is secondary, given that it is collected by a natural person from the ICFES institute through the Colombian government's open data services. 
+
 * How does it help you answer your question?
+
+These data have the results of the last 'Saber 11' tests conducted in Colombia, and demographic information that can be used to establish some behaviors related to some characteristics of the students, this can help me to make some differentiation between groups that perform better and those that do not.
+
+With this data, a scorecard can be constructed, which stakeholders can use to view the behavior of test results over time and segregate by the different variables.
+
+Because we have 84 different variables, it is necessary to shorten the variables to be used. I have selected the group of variables that I think are interesting and can be used to group the students' results.
+
 * Are there any problems with the data?
+
+Some values are in Spanish that Im going to translate them into English. There is missing data that needs to be handled in the best way.
 
 ### Metadata
 
@@ -98,6 +113,74 @@ The data is organized in a single CSV file. This have a tabular structure, with 
 ![image](https://user-images.githubusercontent.com/32172901/183162488-41792144-2208-4911-bd5c-c02a86b97769.png)
 ![image](https://user-images.githubusercontent.com/32172901/183162580-dbb1e573-71c4-4b54-98a8-8c3518017fda.png)
 ![image](https://user-images.githubusercontent.com/32172901/183162697-ca19c4a2-f9d6-479c-b909-e77895a7bb40.png)
+
+### Variables to be used
+
+* ESTU_GENERO
+* PERIODO
+* ESTU_TIENEETNIA
+* ESTU_DEPTO_RESIDE
+* FAMI_ESTRATOVIVIENDA
+* FAMI_EDUCACIONPADRE
+* FAMI_EDUCACIONMADRE
+* FAMI_TIENEINTERNET
+* FAMI_TIENECOMPUTADOR
+* FAMI_COMELECHEDERIVADOS
+* FAMI_COMECARNEPESCADOHUEVO
+* FAMI_COMECEREALFRUTOSLEGUMBRE
+* ESTU_HORASSEMANATRABAJA
+* COLE_GENERO
+* COLE_NATURALEZA
+* COLE_CALENDARIO
+* COLE_BILINGUE
+* COLE_CARACTER
+* COLE_AREA_UBICACION
+* COLE_JORNADA
+* COLE_DEPTO_UBICACION
+* PUNT_LECTURA_CRITICA
+* PUNT_MATEMATICAS
+* PUNT_C_NATURALES
+* PUNT_SOCIALES_CIUDADANAS
+* PUNT_INGLES
+* PUNT_GLOBAL
+* ESTU_ETNIA
+* ESTU_LIMITA_MOTRIZ
+
+## Process
+
+In the process phase we check, transform and clean the data. 
+
+● What tools are you choosing and why?
+
+My tool of choice for data cleansing and transformation is Python, we learned R in certification but I feel more confident with this language and using Jupyter Notebooks.
+
+● Have you ensured your data’s integrity?
+
+Yes, all the data cleansing process is documented in the Jupyter Notebook called “ICFES Analysis Google Certification Capstone Project.ipynb”
+
+● What steps have you taken to ensure that your data is clean?
+
+* Clean the data
+  * Find NA and set what to do with it
+  * Validate by variable the data type
+  * Validate by variable the data structure
+  * Validate by variable the range
+  * Validate by variable the categorical values
+  * Validate duplicate records
+* Validate the data is in the required format and structure
+  * Which values should be modified, such as associating numeric values, splitting or concatenating text strings
+* Validate that the data are sufficient and meet the requirements outlined for the solution of the problem.
+* Ensure that the data are representative and unbiased.
+* Store at the site to be
+
+* How can you verify that your data is clean and ready to analyze?
+
+I validated the data while cleaning it, and used some tools to see if the data meets the requirements.
+
+* Have you documented your cleaning process so you can review and share those results?
+
+Yes, the process is documented, can be share and replicated.
+
 
 
 
