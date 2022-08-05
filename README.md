@@ -186,6 +186,8 @@ Yes, the process is documented, can be share and replicated.
 
 In the process phase the data is analyzed trying to answer the mean questions. 
 
+In this [link](https://github.com/FabianPedreros/GoogleCapstoneProyect/blob/main/ICFES%20Analysis%20Google%20Certification%20Capstone%20Project.ipynb) is the Jupyter Notebooks file with all the process and analysis phases, in such i conduct the data cleansing, data tranformation, univariate analysis and multivariate analysis.
+
 ● How should you organize your data to perform analysis on it?
 
 I organized it in dataframes, it already came in tabular format.
@@ -278,6 +280,8 @@ I expected to see a higher correlation between qualitative variables with test s
 ## Share
 
 This step aims to effectively communicate the insights.
+
+In this [link](https://github.com/FabianPedreros/GoogleCapstoneProyect/blob/main/082022%20Final%20Presentation%20Google%20Case%20Study.pptx) is the final presentation created to communicate the insights and recommendations.
 
 * Were you able to answer the business question?
 
