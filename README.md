@@ -275,6 +275,41 @@ I expected to see a higher correlation between qualitative variables with test s
 10. Students located in the next departments should be the focus of policies to improve their education, this have the lowest mean global scores: Choco, Vaupes, Amazonas, La Guajira, Magdalena, Guainia, Vichada, Guaviare, Bolivar and Cauca. In this group, departments such as Choco, Vaupés and Amazonas stand out for their low performance.
 11. It is advisable to generate educational support policies for students who do not report stratum and those who belong to stratum 1 and 2, these three groups are the ones that historically have the lowest performances.
 
+## Share
+
+This step aims to effectively communicate the insights.
+
+* Were you able to answer the business question?
+
+Yes, we were able to answer the main question of how to improve the results obtained in the ICFES or Saber 11 test, we specified the behavior of the results in each of the subjects, identifying which of them have the worst results, as well as identifying the subgroups according to the demographic variables that have lower performance, in order to establish which groups should be addressed and generally suggest policies that seek to address these subgroups. 
+
+* What story does your data tell?
+
+The data tell the story of the results obtained by students in the Saber 11 tests, of the social and economic differences that affect their general knowledge in the areas of mathematics, language, social sciences and natural sciences at the end of high school. 
+
+* How do your findings relate to your original question?
+
+They establish subgroups that need to be addressed for their low performance on the tests and suggest some policies to mitigate the conditions are related to these performances. 
+
+
+* Who is your audience? What is the best way to communicate with them?
+
+My fictitious audience is the politicians and public workers in charge of generating public policies at the national level regarding the education of Colombians. The best way to communicate the findings would be through a final report of the work and a presentation compiling the most relevant points and the proposals made.
+
+* Can data visualization help you share your findings?
+
+Yes, the visualization of the findings may be relevant, to show the differences in the mean scores obtained depending on each of the demographic variables.
+
+* Is your presentation accessible to your audience?
+
+It is but I have decided to keep the default colors that python generates the graphics with, so it is not shielded against color blindness problems. 
+
+
+# Act
+
+
+
+
 
 
 
