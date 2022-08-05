@@ -307,6 +307,30 @@ It is but I have decided to keep the default colors that python generates the gr
 
 # Act
 
+This step aims to organize the deliverables. 
+
+* What is your final conclusion based on your analysis?
+
+The conclusion is that there are subgroups of Colombian students that require greater attention and the creation of public education policies that allow them to improve conditions and obtain better results in the Saber 11 tests.
+
+* How could your team and business apply your insights?
+
+They help support the need to create public policies that seek to improve education in areas such as social sciences, natural sciences and English, the implementation of the full school day at the national level, encourage the use and facilitate access to internet and computers, and the improvement of nutrition; providing a more balanced diet in which food is consumed on a daily basis. As well as creating policies focused on students belonging to the lowest socioeconomic strata, students whose parents did not complete high school, a group of departments that have the lowest performance, and attention to ethnic minorities.
+
+* What next steps would you or your stakeholders take based on your findings?
+
+They need to take the findings an establish public policies, we can create a classification model to generated a tool that can classify a student at risk of failing the Saber 11 exam based on the demographic data, in order to offer guide and review educational gaps, or enter in national support programs. 
+
+* Is there additional data you could use to expand on your findings?
+
+Yes, it is necessary to include information on the student's performance in school, such as historical grades in subjects or student profile surveys.
+
+## Bibliography
+
+[1] Wikipedia, consulted: 20/07/2022 https://es.wikipedia.org/wiki/Examen_ICFES
+
+
+
 
 
 
