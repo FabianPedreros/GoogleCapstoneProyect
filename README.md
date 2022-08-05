@@ -26,7 +26,7 @@ In this phase we define what the project would look like and what would qualify 
 
 * What topic are you exploring?
 
-We are going to work with the total results of a exam done in Colombia called ICFES between 2018 and 2021, and some demographic information about the students.
+We are going to work with the total results of a exam done in Colombia called ICFES between 2018 and 2020, and some demographic information about the students.
 
 The Saber 11, popularly known as ICFES (not to be confused with the Instituto Colombiano para la Evaluación de la Educación), is a high school exit exam administered annually in grade 11 in the Colombian high school. The exam is standardized, similar to the SAT and ACT exams taken by high school students in the United States and the German Abitur or Selectividad in Spain. The purpose of the exam is to evaluate students' aptitude in five subjects: critical reading, mathematics, social studies, science and English.
 
@@ -34,16 +34,20 @@ The ICFES exam scores students using percentiles and an overall score ranging fr
 
 * What is the problem you are trying to solve?
 
-We are trying to solve a question hypothesized by the Ministry of Education, an entity that seeks to establish educational policies in order for students to perform better in the Saber 11 exam.
+We are trying to solve a question hypothesized by the Ministry of Education, an entity that seeks to establish educational policies for students to perform better in the Saber 11 exam.
 
 The main objective is to establish how ICFES results can be improved in Colombia.
 
 To answer the main question it is necessary to divide it into more specific questions.
 
 How are the results in the five subjects?
+
 Are there any subjects in which students perform worse?
+
 Are there differences in the overall results that can be explained by demographic variables?
+
 What demographic groups should be prioritized in the improvement of education in order to obtain better overall ICFES scores?
+
 What policies can be suggested in order to improve the global score?
 
 * What metrics will you use to measure your data to achieve your objective?
@@ -167,10 +171,14 @@ Yes, all the data cleansing process is documented in the Jupyter Notebook called
   * Validate by variable the range
   * Validate by variable the categorical values
   * Validate duplicate records
+  
 * Validate the data is in the required format and structure
   * Which values should be modified, such as associating numeric values, splitting or concatenating text strings
+  
 * Validate that the data are sufficient and meet the requirements outlined for the solution of the problem.
+
 * Ensure that the data are representative and unbiased.
+
 * Store at the site to be
 
 * How can you verify that your data is clean and ready to analyze?
@@ -278,15 +286,25 @@ I expected to see a higher correlation between qualitative variables with test s
 **The way to improve the results obtained by students in the Saber 11 test, is through the application of policies that seek to address the population subgroups that have lower performance, as well as the attention to factors that affect student performance, guided by the points listed below:**
 
 1. It is necessary to prioritize educational policies that help students in subjects such as Social Sciences, English and Natural Sciences, due to the fact that these have the lowest average scores in the Saber 11 test in the last three years (2018, 2019 and 2020).
+
 2. Special attention should be paid to students whose parents have not completed high school, since this group obtains worse average results than students whose parents have at least completed high school.
+
 3. It can be said that the students who need more support are those of the irregular shifts (Sabatine and night), but that a change in student policy is advisable to adopt the full day at the national level, since they are the students who have the best results in average in the 'Saber 11' tests.
+
 4. We can indicate that students without internet access have worse average results than those who have internet at home, so education policies should encourage the use of internet for educational purposes and expand national coverage, that in this moment is estimated to be the 64 percent of the students.
+
 5. Policies that help students to have access to computers in schools or public policies that facilitate the purchase of these appliances by families should be created, access to computers by students at home is estimated at 60%
+
 6. Policies should focus on students who do not consume milk, milk products, meat, fish, eggs, cereals and legumes on a daily basis, as well as on the inclusion of these foods in school diets and on facilitating access to these types of foods in the basic basket of families, since there are differences in average global scores with peers who do.
+
 7. The fact that a student works has negative effects on the score obtained in the 'Saber 11' exam, so efforts should be focused on students who work, even more so if they work more than 30 hours a day.
+
 8. Students living in rural environments should receive support from educational institutions in order to improve learning and obtain better results in the 'Saber 11' test, this group of students have a lower global score that the urban students. 
+
 9. All minority groups, with the exception of the gypsy communities and natives of Pasto, have much lower scores than those without ethnicity (253.65 average points), so it is recommended to generate educational policies that focus on these groups, remembering that they represent about 6 percent of the total number of students.
+
 10. Students located in the next departments should be the focus of policies to improve their education, this have the lowest mean global scores: Choco, Vaupes, Amazonas, La Guajira, Magdalena, Guainia, Vichada, Guaviare, Bolivar and Cauca. In this group, departments such as Choco, Vaupés and Amazonas stand out for their low performance.
+
 11. It is advisable to generate educational support policies for students who do not report stratum and those who belong to stratum 1 and 2, these three groups are the ones that historically have the lowest performances.
 
 ## Share
