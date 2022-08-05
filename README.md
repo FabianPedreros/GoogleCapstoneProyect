@@ -203,23 +203,35 @@ I expected to see a higher correlation between qualitative variables with test s
 ● What trends or relationships did you find in the data?
 
  - The subjects in which students obtained the worst average results during 2018, 2019 and 2020 were Social Sciences, English and Natural Sciences with their corresponding average scores of 48.25, 49.67 and 49.48.
+
  - The student's total score can be explained by the maximum educational level attained by the father, and it is observed that the higher the educational level, the better the results. Students whose father has no education have an average score of 215.76, while those who finished high school have an average score of 253.0 and those who are the children of professionals with postgraduate degrees have an average score of 320.44.
 
 - The student's total score can be explained by the maximum educational level attained by the mother, the higher the educational level, the better the results. Students whose mother has no education have an average score of 212.30, while those who finished high school have an average score of 250.0 and those who are children of professionals with graduate degrees have an average score of 315.7.
+
 - It appears that there is a higher correlation between student scores with the educational level of the mother than with the educational level of the father. However, the data are not as strong.
+
 - There are differences in the average overall scores obtained by the students depending on the journey in which they study, so we can divide them into three groups: 
 
   - The first group that we can observe is the one formed by the Saturday and night shifts, these two shifts have the worst average performance with means lower than 212 points.
+  
   - The other group that has very similar behaviors is the afternoon, morning and single shifts, which in that order have the worst to the best performance, with mean scores of 247.9, 250.6 and 253.0 points respectively.
+  
   - And the third group is that of full-day students, which is differentiated by having the best mean score of 282.0, despite having the highest standard deviation.
 
  - On average, a student without internet has an overall score of 231.91 points, while one who has internet access has an average of 362.7 points.
+
  - Students with computers at home have a better average result in the 'Saber 11' tests than their peers who do not have them, students with computers have an average score of 265.17 points and those without computers have an average score of 233.38 points.
+
  - When analyzing the differences in the overall scores by level of consumption of milk and milk products, we can see that students who consume these types of products on a daily basis have better results than those who do not or are not as constant in their consumption. Students who never or rarely consume them obtained average scores of 227.75 points, much lower than the 268.67 of those who do consume them on a daily basis.
+
  - The level of consumption of meat, fish or eggs shows a differentiated behavior, evidencing that students who consume these products on a daily basis obtain better average (and median) results than those who do not consume them or those who do not do so in such a constant manner. The higher the consumption of these products, the better results are obtained in the 'Saber 11' test.
+ 
 - As we have seen with the consumption of other foods, students who have a daily consumption of cereals and legumes also obtain better average results, in this case the difference seems to be smaller, but it exists and should therefore be taken into account when considering policies to support students.
+
 - The fact that a student works has negative effects on the score obtained in the 'Saber 11' exam, those who do not have to work have average scores of 206 points but the group that works up to 30 hours a week, have an average score that ranges between 236.97 and 238.50 points, but even more critical, those students who work more than 30 hours a week have average scores of 228.28, that is about 32 points less than those who do not work.
+
 - We can see a difference in the results obtained between students who are from urban vs. rural schools, urban students have a better average performance, obtaining mean scores of 255.98 while rural students on average obtain 232.26. This means that there are differences in the population means of about 23 points in the overall score.
+
 - There are marked differences in the scores obtained by the students according to their ethnicity, the tendency is that students with an ethnicity have lower scores than those who do not (None), especially the minority groups that present the lowest results, according to the average global score, are:
 
   - Sikuani, global score mean: 194.485095
